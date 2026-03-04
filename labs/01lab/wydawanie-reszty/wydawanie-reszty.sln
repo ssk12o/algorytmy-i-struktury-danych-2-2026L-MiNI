@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wydawanie-reszty", "wydawanie-reszty\wydawanie-reszty.csproj", "{AE8BA361-0C1F-48E6-AEEC-E08D6CC37E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8BA361-0C1F-48E6-AEEC-E08D6CC37E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8BA361-0C1F-48E6-AEEC-E08D6CC37E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8BA361-0C1F-48E6-AEEC-E08D6CC37E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8BA361-0C1F-48E6-AEEC-E08D6CC37E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
